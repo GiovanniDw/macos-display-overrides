@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisplayProductName</key>
+	<string>Apple TV 4K</string>
+	<key>scale-resolutions</key>
+	<array/>
+	<key>target-default-ppmm</key>
+	<real>10.01</real>
+</dict>
+</plist>
