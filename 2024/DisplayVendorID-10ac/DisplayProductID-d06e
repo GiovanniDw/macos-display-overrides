@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>DisplayProductName</key>
+		    <string>Dell UltraSharp</string>
+        <key>DisplayProductID</key>
+            <integer>53358</integer>
+        <key>DisplayVendorID</key>
+            <integer>4268</integer>
+        <key>IODisplayEDID</key>
+            <data>AP///////wAQrG7QTFpEMBoaAQSQNx945kRVqVVNnSYPUFSlSwCzANEAcU+pQIGAd4ABAQEBVl4AoKCgKVAwIDUAKTchAAAaAAAA/wA5WDJWWTY3MjBEWkwKAAAA/ABERUxMIFUyNTE1SAogAAAA/QA4Vh5xHgEKICAgICAgAXQ=</data>
+        <key>scale-resolutions</key>
+            <array>
+                <data>AAAUAAAAC0AA</data>
+                <data>AAAQAAAACQAA</data>
+                <data>AAAPAAAACHAA</data>
+                <data>AAANwAAAB7wA</data>
+                <data>AAANIAAAB2IA</data>
+                <data>AAALQAAABlQA</data>
+                <data>AAAKoAAABfoA</data>
+                <data>AAAKAAAABaAA</data>
+                <data>AAAKoAAABfoAAAABACAAAA==</data>
+                <data>AAAKAAAABkAAAAABACAAAA==</data>
+                <data>AAAKAAAABaAAAAABACAAAA==</data>
+                <data>AAAIAAAABIAAAAABACAAAA==</data>
+                <data>AAAHgAAABLAAAAABACAAAA==</data>
+                <data>AAAHgAAABDgAAAABACAAAA==</data>
+                <data>AAAFAAAAAtAAAAABACAAAA==</data>
+                <data>AAAHgAAABDgAAAAB</data>
+                <data>AAAGkAAAA7AAAAAB</data>
+                <data>AAAGQAAAA4QAAAAB</data>
+                <data>AAAFoAAAAyoAAAAB</data>
+                <data>AAAFAAAAAtAAAAAB</data>
+                <data>AAAEgAAAAogAAAAB</data>
+                <data>AAAEAAAAAkAAAAAB</data>
+                <data>AAADSAAAAdQAAAAB</data>
+                <data>AAADIAAAAcIAAAAB</data>
+                <data>AAACgAAAAWgAAAAB</data>
+                <data>AAAQAAAACQAAAAAJAKAAAA==</data>
+                <data>AAAPAAAACHAAAAAJAKAAAA==</data>
+                <data>AAANIAAAB2IAAAAJAKAAAA==</data>
+                <data>AAALQAAABlQAAAAJAKAAAA==</data>
+                <data>AAAKAAAABaAAAAAJAKAAAA==</data>
+                <data>AAAIAAAABIAAAAAJAKAAAA==</data>
+                <data>AAAHgAAABDgAAAAJAKAAAA==</data>
+                <data>AAAGkAAAA7AAAAAJAKAAAA==</data>
+                <data>AAAGQAAAA4QAAAAJAKAAAA==</data>
+                <data>AAAFAAAAAtAAAAAJAKAAAA==</data>
+            </array>
+        <key>target-default-ppmm</key>
+            <real>10.0699301</real>
+    </dict>
+</plist>
