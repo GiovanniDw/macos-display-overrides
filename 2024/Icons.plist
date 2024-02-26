@@ -149,6 +149,51 @@
 					<key>resolution-preview-y-90</key>
 					<integer>47</integer>
 				</dict>
+				<key>1023</key>
+				<dict>
+					<key>display-icon</key>
+					<string>public.display</string>
+					<key>display-resolution-preview-icon</key>
+					<string>/System/Library/Displays/Contents/Resources/Overrides/Models/public.generic-lcd-landscape.tiff</string>
+					<key>display-resolution-preview-icon-180</key>
+					<string>/System/Library/Displays/Contents/Resources/Overrides/Models/public.generic-lcd-landscape.tiff</string>
+					<key>display-resolution-preview-icon-270</key>
+					<string>/System/Library/Displays/Contents/Resources/Overrides/Models/public.generic-lcd-portrait.tiff</string>
+					<key>display-resolution-preview-icon-90</key>
+					<string>/System/Library/Displays/Contents/Resources/Overrides/Models/public.generic-lcd-portrait.tiff</string>
+					<key>resolution-preview-height</key>
+					<integer>130</integer>
+					<key>resolution-preview-height-180</key>
+					<integer>130</integer>
+					<key>resolution-preview-height-270</key>
+					<integer>191</integer>
+					<key>resolution-preview-height-90</key>
+					<integer>191</integer>
+					<key>resolution-preview-width</key>
+					<integer>226</integer>
+					<key>resolution-preview-width-180</key>
+					<integer>226</integer>
+					<key>resolution-preview-width-270</key>
+					<integer>108</integer>
+					<key>resolution-preview-width-90</key>
+					<integer>108</integer>
+					<key>resolution-preview-x</key>
+					<integer>7</integer>
+					<key>resolution-preview-x-180</key>
+					<integer>7</integer>
+					<key>resolution-preview-x-270</key>
+					<integer>7</integer>
+					<key>resolution-preview-x-90</key>
+					<integer>7</integer>
+					<key>resolution-preview-y</key>
+					<integer>34</integer>
+					<key>resolution-preview-y-180</key>
+					<integer>34</integer>
+					<key>resolution-preview-y-270</key>
+					<integer>32</integer>
+					<key>resolution-preview-y-90</key>
+					<integer>32</integer>
+				</dict>
 				<key>7174</key>
 				<dict>
 					<key>display-icon</key>
@@ -214,15 +259,15 @@
 					<key>display-icon</key>
 					<string>public.display</string>
 					<key>display-resolution-preview-icon</key>
-					<string>/System/Library/Displays/Contents/Resources/Overrides/Models/com.apple.ipad-pro-12point9-2.tiff</string>
+					<string>/System/Library/Displays/Contents/Resources/Overrides/Models/com.apple.studio-display.tiff</string>
 					<key>resolution-preview-height</key>
-					<integer>158</integer>
+					<integer>134</integer>
 					<key>resolution-preview-width</key>
-					<integer>226</integer>
+					<integer>236</integer>
 					<key>resolution-preview-x</key>
-					<integer>8</integer>
+					<integer>5</integer>
 					<key>resolution-preview-y</key>
-					<integer>29</integer>
+					<integer>72</integer>
 				</dict>
 			</dict>
 		</dict>
